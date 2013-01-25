@@ -1,0 +1,1960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="316" ts="1359076173220" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_1</java.net.URL>
+</httpSample>
+<httpSample t="40" ts="1359076174640" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_2</java.net.URL>
+</httpSample>
+<httpSample t="21" ts="1359076175610" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_3</java.net.URL>
+</httpSample>
+<httpSample t="30" ts="1359076176274" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_4</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076176813" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_5</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076177180" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_6</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076177620" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_7</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076177971" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_8</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076178325" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_9</java.net.URL>
+</httpSample>
+<httpSample t="20" ts="1359076179065" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_10</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076179523" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_11</java.net.URL>
+</httpSample>
+<httpSample t="22" ts="1359076179958" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_12</java.net.URL>
+</httpSample>
+<httpSample t="20" ts="1359076180278" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_13</java.net.URL>
+</httpSample>
+<httpSample t="47" ts="1359076180600" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_14</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076181258" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_15</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076181789" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_16</java.net.URL>
+</httpSample>
+<httpSample t="21" ts="1359076183096" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_17</java.net.URL>
+</httpSample>
+<httpSample t="24" ts="1359076183615" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_18</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076184272" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_19</java.net.URL>
+</httpSample>
+<httpSample t="21" ts="1359076184550" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_20</java.net.URL>
+</httpSample>
+<httpSample t="36" ts="1359076185262" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_21</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076185557" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_22</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076185903" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_23</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076186185" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_24</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076186427" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_25</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076186981" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_26</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076187497" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_27</java.net.URL>
+</httpSample>
+<httpSample t="20" ts="1359076187930" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_28</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076188196" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_29</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076188444" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_30</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076188675" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_31</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076189004" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_32</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076189532" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_33</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076189907" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_34</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076190254" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_35</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076190574" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_36</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076190871" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_37</java.net.URL>
+</httpSample>
+<httpSample t="24" ts="1359076191145" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_38</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076191598" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_39</java.net.URL>
+</httpSample>
+<httpSample t="23" ts="1359076192258" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_40</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076192671" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_41</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076192900" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_42</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076193279" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_43</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076193513" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_44</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076193787" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_45</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076194114" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_46</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076194498" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_47</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076194935" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_48</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076195174" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_49</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076195503" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_50</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076195727" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_51</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076196111" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_52</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076196611" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_53</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076196940" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_54</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076197158" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_55</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076197372" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_56</java.net.URL>
+</httpSample>
+<httpSample t="21" ts="1359076197662" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_57</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076197881" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_58</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076198224" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_59</java.net.URL>
+</httpSample>
+<httpSample t="24" ts="1359076198450" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_60</java.net.URL>
+</httpSample>
+<httpSample t="21" ts="1359076198771" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_61</java.net.URL>
+</httpSample>
+<httpSample t="21" ts="1359076199038" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_62</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076199277" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_63</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076199930" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_64</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076200323" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_65</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076200541" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_66</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076200851" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_67</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076201644" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_68</java.net.URL>
+</httpSample>
+<httpSample t="22" ts="1359076201943" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_69</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076202211" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_70</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076202507" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_71</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076203104" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_72</java.net.URL>
+</httpSample>
+<httpSample t="20" ts="1359076203395" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_73</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076203691" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_74</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076203908" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_75</java.net.URL>
+</httpSample>
+<httpSample t="21" ts="1359076204284" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_76</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076204596" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_77</java.net.URL>
+</httpSample>
+<httpSample t="20" ts="1359076204844" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_78</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076205113" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_79</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076205391" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_80</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076205717" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_81</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076206042" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_82</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076206432" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_83</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076206692" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_84</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076206952" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_85</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076207312" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_86</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076207690" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_87</java.net.URL>
+</httpSample>
+<httpSample t="28" ts="1359076207977" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_88</java.net.URL>
+</httpSample>
+<httpSample t="21" ts="1359076208226" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_89</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076208471" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_90</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076208704" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_91</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076208990" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_92</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076209291" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_93</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076209723" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_94</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076209989" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_95</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076210339" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_96</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076210566" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_97</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076210781" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_98</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076211129" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_99</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076211792" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_100</java.net.URL>
+</httpSample>
+<httpSample t="23" ts="1359076211998" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_101</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076212425" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_102</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076212635" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_103</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076213331" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_104</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076213791" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_105</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076214080" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_106</java.net.URL>
+</httpSample>
+<httpSample t="20" ts="1359076214286" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_107</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076214958" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_108</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076215176" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_109</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076215377" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_110</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076215588" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_111</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076215828" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_112</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076216105" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_113</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076216549" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_114</java.net.URL>
+</httpSample>
+<httpSample t="20" ts="1359076216767" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_115</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076217201" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_116</java.net.URL>
+</httpSample>
+<httpSample t="20" ts="1359076217409" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_117</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076217687" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_118</java.net.URL>
+</httpSample>
+<httpSample t="26" ts="1359076217929" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_119</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076218170" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_120</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076218605" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_121</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076218841" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_122</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076219258" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_123</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076219469" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_124</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076219677" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_125</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076220026" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_126</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076220332" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_127</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076220528" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_128</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076220753" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_129</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076221032" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_130</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076221420" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_131</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076221651" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_132</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076221976" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_133</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076222196" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_134</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076222461" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_135</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076222670" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_136</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076222881" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_137</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076223193" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_138</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076223429" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_139</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076223751" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_140</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076223973" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_141</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076224261" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_142</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076224551" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_143</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076224755" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_144</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076225256" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_145</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076225763" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_146</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076225993" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_147</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076226345" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_148</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076226551" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_149</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076226848" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_150</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076227155" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_151</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076227548" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_152</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076227745" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_153</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076228159" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_154</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076228366" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_155</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076228579" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_156</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076228880" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_157</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076229094" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_158</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076229302" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_159</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076229531" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_160</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076229745" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_161</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076230381" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_162</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076230713" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_163</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076231010" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_164</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076231220" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_165</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076231428" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_166</java.net.URL>
+</httpSample>
+<httpSample t="20" ts="1359076231704" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_167</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076231909" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_168</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076232174" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_169</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076232637" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_170</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076232896" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_171</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076233092" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_172</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076233301" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_173</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076233558" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_174</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076233753" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_175</java.net.URL>
+</httpSample>
+<httpSample t="22" ts="1359076233976" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_176</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076234200" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_177</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076234469" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_178</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076236082" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_179</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076236352" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_180</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076236794" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_181</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076237057" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_182</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076237345" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_183</java.net.URL>
+</httpSample>
+<httpSample t="22" ts="1359076237595" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_184</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076237868" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_185</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076238542" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_186</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076239045" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_187</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076239313" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_188</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076239500" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_189</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076239747" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_190</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076240424" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_191</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076240775" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_192</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076241071" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_193</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076241285" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_194</java.net.URL>
+</httpSample>
+<httpSample t="33" ts="1359076241620" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_195</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076242060" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_196</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076242266" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_197</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076242457" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_198</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076242741" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_199</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076243194" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_200</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076243399" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_201</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076243680" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_202</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076243892" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_203</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076244085" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_204</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076244321" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_205</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076244620" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_206</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076244819" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_207</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076246213" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_208</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076246509" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_209</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076246726" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_210</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076246921" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_211</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076247120" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_212</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076247393" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_213</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076247668" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_214</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076247943" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_215</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076248245" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_216</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076248533" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_217</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076248874" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_218</java.net.URL>
+</httpSample>
+<httpSample t="21" ts="1359076249089" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_219</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076249299" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_220</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076249600" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_221</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076250022" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_222</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076250287" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_223</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076250554" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_224</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076251107" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_225</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076251317" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_226</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076251521" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_227</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076251975" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_228</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076252343" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_229</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076252537" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_230</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076252778" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_231</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076252988" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_232</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076253368" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_233</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076253580" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_234</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076254015" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_235</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076254327" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_236</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076254546" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_237</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076254783" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_238</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076254997" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_239</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076255314" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_240</java.net.URL>
+</httpSample>
+<httpSample t="47" ts="1359076255597" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_241</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076256071" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_242</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076256500" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_243</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076256687" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_244</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076256884" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_245</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076257079" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_246</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076257275" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_247</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076257559" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_248</java.net.URL>
+</httpSample>
+<httpSample t="85" ts="1359076257768" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_249</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076258193" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_250</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076258383" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_251</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076258633" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_252</java.net.URL>
+</httpSample>
+<httpSample t="20" ts="1359076258980" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_253</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076259173" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_254</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076259372" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_255</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076259575" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_256</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076259875" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_257</java.net.URL>
+</httpSample>
+<httpSample t="23" ts="1359076260144" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_258</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076260366" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_259</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076260569" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_260</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076260779" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_261</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076262059" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_262</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076262277" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_263</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076262484" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_264</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076262926" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_265</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076263213" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_266</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076263438" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_267</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076263797" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_268</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076264011" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_269</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076264290" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_270</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076264483" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_271</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076264710" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_272</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076264991" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_273</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076265201" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_274</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076265583" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_275</java.net.URL>
+</httpSample>
+<httpSample t="22" ts="1359076265780" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_276</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076266226" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_277</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076266495" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_278</java.net.URL>
+</httpSample>
+<httpSample t="22" ts="1359076266767" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_279</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076266989" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_280</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076267184" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_281</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076267415" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_282</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076267631" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_283</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076267987" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_284</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076268188" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_285</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076268412" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_286</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076268771" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_287</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076268966" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_288</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076269191" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_289</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076269402" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_290</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076269591" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_291</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076269980" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_292</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076270188" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_293</java.net.URL>
+</httpSample>
+<httpSample t="24" ts="1359076270487" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_294</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076270760" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_295</java.net.URL>
+</httpSample>
+<httpSample t="21" ts="1359076271918" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_296</java.net.URL>
+</httpSample>
+<httpSample t="20" ts="1359076272203" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_297</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076272429" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_298</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076272637" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_299</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076273251" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_300</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076273565" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_301</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076273759" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_302</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076274009" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_303</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076274240" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_304</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076274445" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_305</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076274643" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_306</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076274842" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_307</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076275227" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_308</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076275514" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_309</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076275742" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_310</java.net.URL>
+</httpSample>
+<httpSample t="22" ts="1359076276007" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_311</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076276753" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_312</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076277063" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_313</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076277357" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_314</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076277632" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_315</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076278328" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_316</java.net.URL>
+</httpSample>
+<httpSample t="26" ts="1359076278742" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_317</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076279037" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_318</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076279424" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_319</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076279751" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_320</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076280071" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_321</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076280355" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_322</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076280685" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_323</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076280970" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_324</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076281668" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_325</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076281945" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_326</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076282185" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_327</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076282528" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_328</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076282834" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_329</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076283083" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_330</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076283326" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_331</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076283654" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_332</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076284179" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_333</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076284435" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_334</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076284777" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_335</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076284982" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_336</java.net.URL>
+</httpSample>
+<httpSample t="23" ts="1359076285376" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_337</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076285813" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_338</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076286060" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_339</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076286408" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_340</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076286682" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_341</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076287264" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_342</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076287556" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_343</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076287790" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_344</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076288081" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_345</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076288289" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_346</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076288561" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_347</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076288774" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_348</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076288972" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_349</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076289335" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_350</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076289537" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_351</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076289752" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_352</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076289969" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_353</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076290335" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_354</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076290548" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_355</java.net.URL>
+</httpSample>
+<httpSample t="20" ts="1359076290851" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_356</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076291055" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_357</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076292515" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_358</java.net.URL>
+</httpSample>
+<httpSample t="23" ts="1359076292819" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_359</java.net.URL>
+</httpSample>
+<httpSample t="21" ts="1359076293133" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_360</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076293477" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_361</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076293854" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_362</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076294086" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_363</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076294472" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_364</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076294673" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_365</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076294888" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_366</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076295190" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_367</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076295449" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_368</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076295669" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_369</java.net.URL>
+</httpSample>
+<httpSample t="21" ts="1359076295874" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_370</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076296579" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_371</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076296881" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_372</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076297236" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_373</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076297517" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_374</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076297749" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_375</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076298131" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_376</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076298360" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_377</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076298679" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_378</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076298899" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_379</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076299138" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_380</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076299367" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_381</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076299585" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_382</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076299796" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_383</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076300088" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_384</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076300473" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_385</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076300773" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_386</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076301058" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_387</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076301572" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_388</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076301819" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_389</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076302171" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_390</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076302484" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_391</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076302775" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_392</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076303142" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_393</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076309482" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_394</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076310015" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_395</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076310218" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_396</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076310854" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_397</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076311114" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_398</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076311621" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_399</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076312158" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_400</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076312545" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_401</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076312810" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_402</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076313036" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_403</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076313265" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_404</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076313461" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_405</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076314113" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_406</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076314849" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_407</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076315052" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_408</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076316007" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_409</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076316304" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_410</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076316567" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_411</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076316860" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_412</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076317102" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_413</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076317307" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_414</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076317699" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_415</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076317920" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_416</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076318338" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_417</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076318519" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_418</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076318800" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_419</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076318989" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_420</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076319254" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_421</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076319552" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_422</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076319930" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_423</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076320220" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_424</java.net.URL>
+</httpSample>
+<httpSample t="21" ts="1359076320480" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_425</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076320803" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_426</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076321050" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_427</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076321263" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_428</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076321459" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_429</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076321767" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_430</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076322099" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_431</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076322392" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_432</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076322762" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_433</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076323068" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_434</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076323371" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_435</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076323637" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_436</java.net.URL>
+</httpSample>
+<httpSample t="10" ts="1359076324028" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_437</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076324321" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_438</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076324530" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_439</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076324816" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_440</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076325012" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_441</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076325279" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_442</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076325490" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_443</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076325693" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_444</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076325992" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_445</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076326202" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_446</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076326484" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_447</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076326758" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_448</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076326996" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_449</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076327181" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_450</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076327453" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_451</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076327686" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_452</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076327879" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_453</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076328160" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_454</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076328517" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_455</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076328980" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_456</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076329271" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_457</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076329524" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_458</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076329878" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_459</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076330070" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_460</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076330395" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_461</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076330667" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_462</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076330871" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_463</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076331084" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_464</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076331291" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_465</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076331560" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_466</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076331915" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_467</java.net.URL>
+</httpSample>
+<httpSample t="21" ts="1359076332187" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_468</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076332392" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_469</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076332605" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_470</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076332810" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_471</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076333018" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_472</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076333312" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_473</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076333662" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_474</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076333870" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_475</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076334207" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_476</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076334420" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_477</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076337859" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_478</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076338172" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_479</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076338521" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_480</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076338765" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_481</java.net.URL>
+</httpSample>
+<httpSample t="20" ts="1359076339056" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_482</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076339296" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_483</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076339561" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_484</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076339951" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_485</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076340341" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_486</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076340561" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_487</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076341076" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_488</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076341369" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_489</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076343019" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_490</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076346081" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_491</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076346368" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_492</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076346756" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_493</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076347107" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_494</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076347574" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_495</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076347807" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_496</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076348276" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_497</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076348556" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_498</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076348920" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_499</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076349344" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_500</java.net.URL>
+</httpSample>
+<httpSample t="21" ts="1359076349588" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_501</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076349812" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_502</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076350050" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_503</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076350420" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_504</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076350845" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_505</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076351110" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_506</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076351495" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_507</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076351775" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_508</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076352100" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_509</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076352350" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_510</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076352747" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_511</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076352973" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_512</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076353176" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_513</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076353579" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_514</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076353800" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_515</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076354135" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_516</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076354515" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_517</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076354893" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_518</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076355130" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_519</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076355353" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_520</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076355570" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_521</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076355864" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_522</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076356244" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_523</java.net.URL>
+</httpSample>
+<httpSample t="20" ts="1359076356558" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_524</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076356913" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_525</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076357237" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_526</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076357504" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_527</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076357871" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_528</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076358241" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_529</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076358739" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_530</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076359036" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_531</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076359417" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_532</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076359620" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_533</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076360076" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_534</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076360300" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_535</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076360620" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_536</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076360831" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_537</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076361215" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_538</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076361532" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_539</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076361770" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_540</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076361974" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_541</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076362270" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_542</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076362582" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_543</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076362810" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_544</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076363052" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_545</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076363265" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_546</java.net.URL>
+</httpSample>
+<httpSample t="20" ts="1359076363478" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_547</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076363693" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_548</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076363928" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_549</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076364145" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_550</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076364441" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_551</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076364781" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_552</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076365146" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_553</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076365378" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_554</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076365731" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_555</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076366022" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_556</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076366314" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_557</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076366531" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_558</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076366821" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_559</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076367154" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_560</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076367391" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_561</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076367798" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_562</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076368226" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_563</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076368505" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_564</java.net.URL>
+</httpSample>
+<httpSample t="22" ts="1359076368847" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_565</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076369219" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_566</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076369517" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_567</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076369725" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_568</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076370042" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_569</java.net.URL>
+</httpSample>
+<httpSample t="21" ts="1359076370323" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_570</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076370694" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_571</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076371032" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_572</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076371255" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_573</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076371457" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_574</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076372016" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_575</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076372266" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_576</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076372493" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_577</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076372790" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_578</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076372971" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_579</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076373922" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_580</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076374372" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_581</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076374611" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_582</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076374853" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_583</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076375242" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_584</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076375453" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_585</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076375641" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_586</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076375951" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_587</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076376141" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_588</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076376410" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_589</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076376685" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_590</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076376906" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_591</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076377192" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_592</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076377399" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_593</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076377813" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_594</java.net.URL>
+</httpSample>
+<httpSample t="23" ts="1359076378106" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_595</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076378429" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_596</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076378688" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_597</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076378897" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_598</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076379141" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_599</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076379491" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_600</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076380259" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_601</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076380904" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_602</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076381186" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_603</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076381530" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_604</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076381860" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_605</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076382087" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_606</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076382759" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_607</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076383023" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_608</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076383815" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_609</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076384117" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_610</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076384428" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_611</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076384661" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_612</java.net.URL>
+</httpSample>
+<httpSample t="19" ts="1359076384909" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_613</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076385137" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_614</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076385338" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_615</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076385748" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_616</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076386019" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_617</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076386308" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_618</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076386732" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_619</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076386957" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_620</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076387092" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_621</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076387292" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_622</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076387509" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_623</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076387956" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_624</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076388469" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_625</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076388823" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_626</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076389173" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_627</java.net.URL>
+</httpSample>
+<httpSample t="18" ts="1359076389405" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_628</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076389657" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_629</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076390049" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_630</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076390340" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_631</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076390574" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_632</java.net.URL>
+</httpSample>
+<httpSample t="21" ts="1359076390884" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_633</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076391292" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_634</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076391531" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_635</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076391871" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_636</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076392075" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_637</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076392269" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_638</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076392663" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_639</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076392944" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_640</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076393331" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_641</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076393680" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_642</java.net.URL>
+</httpSample>
+<httpSample t="17" ts="1359076393878" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_643</java.net.URL>
+</httpSample>
+<httpSample t="12" ts="1359076394168" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_644</java.net.URL>
+</httpSample>
+<httpSample t="15" ts="1359076394454" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_645</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076395022" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_646</java.net.URL>
+</httpSample>
+<httpSample t="13" ts="1359076395261" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_647</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076395484" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_648</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076395699" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_649</java.net.URL>
+</httpSample>
+<httpSample t="11" ts="1359076395999" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_650</java.net.URL>
+</httpSample>
+<httpSample t="16" ts="1359076396328" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_651</java.net.URL>
+</httpSample>
+<httpSample t="14" ts="1359076396538" s="false" lb="Fedora Delete Object Request" rc="404" rm="Not Found" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_652</java.net.URL>
+</httpSample>
+
+</testResults>

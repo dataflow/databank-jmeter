@@ -1,0 +1,1960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="474" ts="1359076173636" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_1</java.net.URL>
+</httpSample>
+<httpSample t="211" ts="1359076174894" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_2</java.net.URL>
+</httpSample>
+<httpSample t="233" ts="1359076175725" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_3</java.net.URL>
+</httpSample>
+<httpSample t="215" ts="1359076176391" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_4</java.net.URL>
+</httpSample>
+<httpSample t="139" ts="1359076176862" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_5</java.net.URL>
+</httpSample>
+<httpSample t="104" ts="1359076177234" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_6</java.net.URL>
+</httpSample>
+<httpSample t="113" ts="1359076177674" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_7</java.net.URL>
+</httpSample>
+<httpSample t="132" ts="1359076178028" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_8</java.net.URL>
+</httpSample>
+<httpSample t="121" ts="1359076178379" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_9</java.net.URL>
+</httpSample>
+<httpSample t="240" ts="1359076179116" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_10</java.net.URL>
+</httpSample>
+<httpSample t="237" ts="1359076179571" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_11</java.net.URL>
+</httpSample>
+<httpSample t="109" ts="1359076180011" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_12</java.net.URL>
+</httpSample>
+<httpSample t="119" ts="1359076180328" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_13</java.net.URL>
+</httpSample>
+<httpSample t="282" ts="1359076180689" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_14</java.net.URL>
+</httpSample>
+<httpSample t="150" ts="1359076181303" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_15</java.net.URL>
+</httpSample>
+<httpSample t="985" ts="1359076181837" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_16</java.net.URL>
+</httpSample>
+<httpSample t="113" ts="1359076183145" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_17</java.net.URL>
+</httpSample>
+<httpSample t="144" ts="1359076183717" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_18</java.net.URL>
+</httpSample>
+<httpSample t="88" ts="1359076184321" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_19</java.net.URL>
+</httpSample>
+<httpSample t="89" ts="1359076184599" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_20</java.net.URL>
+</httpSample>
+<httpSample t="97" ts="1359076185342" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_21</java.net.URL>
+</httpSample>
+<httpSample t="89" ts="1359076185604" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_22</java.net.URL>
+</httpSample>
+<httpSample t="119" ts="1359076185947" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_23</java.net.URL>
+</httpSample>
+<httpSample t="81" ts="1359076186234" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_24</java.net.URL>
+</httpSample>
+<httpSample t="117" ts="1359076186470" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_25</java.net.URL>
+</httpSample>
+<httpSample t="195" ts="1359076187127" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_26</java.net.URL>
+</httpSample>
+<httpSample t="94" ts="1359076187541" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_27</java.net.URL>
+</httpSample>
+<httpSample t="79" ts="1359076187981" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_28</java.net.URL>
+</httpSample>
+<httpSample t="82" ts="1359076188240" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_29</java.net.URL>
+</httpSample>
+<httpSample t="84" ts="1359076188486" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_30</java.net.URL>
+</httpSample>
+<httpSample t="88" ts="1359076188723" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_31</java.net.URL>
+</httpSample>
+<httpSample t="82" ts="1359076189048" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_32</java.net.URL>
+</httpSample>
+<httpSample t="76" ts="1359076189597" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_33</java.net.URL>
+</httpSample>
+<httpSample t="77" ts="1359076190039" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_34</java.net.URL>
+</httpSample>
+<httpSample t="74" ts="1359076190297" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_35</java.net.URL>
+</httpSample>
+<httpSample t="105" ts="1359076190634" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_36</java.net.URL>
+</httpSample>
+<httpSample t="72" ts="1359076190913" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_37</java.net.URL>
+</httpSample>
+<httpSample t="118" ts="1359076191200" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_38</java.net.URL>
+</httpSample>
+<httpSample t="157" ts="1359076191672" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_39</java.net.URL>
+</httpSample>
+<httpSample t="73" ts="1359076192311" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_40</java.net.URL>
+</httpSample>
+<httpSample t="76" ts="1359076192712" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_41</java.net.URL>
+</httpSample>
+<httpSample t="72" ts="1359076192942" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_42</java.net.URL>
+</httpSample>
+<httpSample t="80" ts="1359076193319" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_43</java.net.URL>
+</httpSample>
+<httpSample t="86" ts="1359076193557" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_44</java.net.URL>
+</httpSample>
+<httpSample t="81" ts="1359076193828" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_45</java.net.URL>
+</httpSample>
+<httpSample t="213" ts="1359076194157" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_46</java.net.URL>
+</httpSample>
+<httpSample t="80" ts="1359076194539" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_47</java.net.URL>
+</httpSample>
+<httpSample t="76" ts="1359076194977" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_48</java.net.URL>
+</httpSample>
+<httpSample t="69" ts="1359076195214" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_49</java.net.URL>
+</httpSample>
+<httpSample t="77" ts="1359076195545" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_50</java.net.URL>
+</httpSample>
+<httpSample t="115" ts="1359076195768" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_51</java.net.URL>
+</httpSample>
+<httpSample t="95" ts="1359076196151" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_52</java.net.URL>
+</httpSample>
+<httpSample t="82" ts="1359076196673" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_53</java.net.URL>
+</httpSample>
+<httpSample t="74" ts="1359076196980" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_54</java.net.URL>
+</httpSample>
+<httpSample t="75" ts="1359076197197" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_55</java.net.URL>
+</httpSample>
+<httpSample t="76" ts="1359076197479" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_56</java.net.URL>
+</httpSample>
+<httpSample t="74" ts="1359076197708" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_57</java.net.URL>
+</httpSample>
+<httpSample t="107" ts="1359076197921" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_58</java.net.URL>
+</httpSample>
+<httpSample t="73" ts="1359076198269" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_59</java.net.URL>
+</httpSample>
+<httpSample t="75" ts="1359076198498" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_60</java.net.URL>
+</httpSample>
+<httpSample t="74" ts="1359076198816" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_61</java.net.URL>
+</httpSample>
+<httpSample t="77" ts="1359076199089" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_62</java.net.URL>
+</httpSample>
+<httpSample t="100" ts="1359076199322" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_63</java.net.URL>
+</httpSample>
+<httpSample t="99" ts="1359076199971" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_64</java.net.URL>
+</httpSample>
+<httpSample t="72" ts="1359076200370" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_65</java.net.URL>
+</httpSample>
+<httpSample t="70" ts="1359076200589" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_66</java.net.URL>
+</httpSample>
+<httpSample t="78" ts="1359076200891" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_67</java.net.URL>
+</httpSample>
+<httpSample t="73" ts="1359076201685" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_68</java.net.URL>
+</httpSample>
+<httpSample t="98" ts="1359076201990" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_69</java.net.URL>
+</httpSample>
+<httpSample t="83" ts="1359076202322" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_70</java.net.URL>
+</httpSample>
+<httpSample t="70" ts="1359076202549" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_71</java.net.URL>
+</httpSample>
+<httpSample t="68" ts="1359076203144" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_72</java.net.URL>
+</httpSample>
+<httpSample t="67" ts="1359076203440" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_73</java.net.URL>
+</httpSample>
+<httpSample t="71" ts="1359076203733" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_74</java.net.URL>
+</httpSample>
+<httpSample t="71" ts="1359076203952" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_75</java.net.URL>
+</httpSample>
+<httpSample t="68" ts="1359076204330" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_76</java.net.URL>
+</httpSample>
+<httpSample t="92" ts="1359076204640" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_77</java.net.URL>
+</httpSample>
+<httpSample t="81" ts="1359076204888" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_78</java.net.URL>
+</httpSample>
+<httpSample t="100" ts="1359076205153" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_79</java.net.URL>
+</httpSample>
+<httpSample t="90" ts="1359076205431" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_80</java.net.URL>
+</httpSample>
+<httpSample t="68" ts="1359076205755" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_81</java.net.URL>
+</httpSample>
+<httpSample t="101" ts="1359076206117" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_82</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076206469" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_83</java.net.URL>
+</httpSample>
+<httpSample t="115" ts="1359076206736" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_84</java.net.URL>
+</httpSample>
+<httpSample t="66" ts="1359076206993" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_85</java.net.URL>
+</httpSample>
+<httpSample t="73" ts="1359076207350" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_86</java.net.URL>
+</httpSample>
+<httpSample t="68" ts="1359076207728" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_87</java.net.URL>
+</httpSample>
+<httpSample t="75" ts="1359076208029" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_88</java.net.URL>
+</httpSample>
+<httpSample t="74" ts="1359076208275" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_89</java.net.URL>
+</httpSample>
+<httpSample t="72" ts="1359076208517" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_90</java.net.URL>
+</httpSample>
+<httpSample t="130" ts="1359076208744" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_91</java.net.URL>
+</httpSample>
+<httpSample t="73" ts="1359076209032" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_92</java.net.URL>
+</httpSample>
+<httpSample t="70" ts="1359076209332" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_93</java.net.URL>
+</httpSample>
+<httpSample t="102" ts="1359076209769" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_94</java.net.URL>
+</httpSample>
+<httpSample t="81" ts="1359076210030" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_95</java.net.URL>
+</httpSample>
+<httpSample t="80" ts="1359076210376" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_96</java.net.URL>
+</httpSample>
+<httpSample t="70" ts="1359076210602" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_97</java.net.URL>
+</httpSample>
+<httpSample t="75" ts="1359076210819" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_98</java.net.URL>
+</httpSample>
+<httpSample t="66" ts="1359076211172" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_99</java.net.URL>
+</httpSample>
+<httpSample t="67" ts="1359076211839" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_100</java.net.URL>
+</httpSample>
+<httpSample t="77" ts="1359076212050" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_101</java.net.URL>
+</httpSample>
+<httpSample t="67" ts="1359076212463" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_102</java.net.URL>
+</httpSample>
+<httpSample t="69" ts="1359076212674" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_103</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076213370" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_104</java.net.URL>
+</httpSample>
+<httpSample t="68" ts="1359076213829" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_105</java.net.URL>
+</httpSample>
+<httpSample t="67" ts="1359076214123" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_106</java.net.URL>
+</httpSample>
+<httpSample t="238" ts="1359076214338" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_107</java.net.URL>
+</httpSample>
+<httpSample t="74" ts="1359076215004" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_108</java.net.URL>
+</httpSample>
+<httpSample t="71" ts="1359076215215" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_109</java.net.URL>
+</httpSample>
+<httpSample t="74" ts="1359076215416" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_110</java.net.URL>
+</httpSample>
+<httpSample t="102" ts="1359076215625" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_111</java.net.URL>
+</httpSample>
+<httpSample t="69" ts="1359076215871" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_112</java.net.URL>
+</httpSample>
+<httpSample t="111" ts="1359076216145" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_113</java.net.URL>
+</httpSample>
+<httpSample t="69" ts="1359076216587" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_114</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076216812" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_115</java.net.URL>
+</httpSample>
+<httpSample t="76" ts="1359076217240" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_116</java.net.URL>
+</httpSample>
+<httpSample t="91" ts="1359076217453" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_117</java.net.URL>
+</httpSample>
+<httpSample t="98" ts="1359076217731" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_118</java.net.URL>
+</httpSample>
+<httpSample t="65" ts="1359076217979" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_119</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076218208" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_120</java.net.URL>
+</httpSample>
+<httpSample t="77" ts="1359076218647" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_121</java.net.URL>
+</httpSample>
+<httpSample t="73" ts="1359076218881" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_122</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076219307" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_123</java.net.URL>
+</httpSample>
+<httpSample t="68" ts="1359076219505" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_124</java.net.URL>
+</httpSample>
+<httpSample t="197" ts="1359076219715" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_125</java.net.URL>
+</httpSample>
+<httpSample t="74" ts="1359076220070" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_126</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076220369" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_127</java.net.URL>
+</httpSample>
+<httpSample t="80" ts="1359076220578" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_128</java.net.URL>
+</httpSample>
+<httpSample t="67" ts="1359076220866" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_129</java.net.URL>
+</httpSample>
+<httpSample t="67" ts="1359076221069" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_130</java.net.URL>
+</httpSample>
+<httpSample t="88" ts="1359076221460" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_131</java.net.URL>
+</httpSample>
+<httpSample t="65" ts="1359076221689" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_132</java.net.URL>
+</httpSample>
+<httpSample t="67" ts="1359076222019" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_133</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076222234" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_134</java.net.URL>
+</httpSample>
+<httpSample t="64" ts="1359076222499" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_135</java.net.URL>
+</httpSample>
+<httpSample t="65" ts="1359076222708" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_136</java.net.URL>
+</httpSample>
+<httpSample t="82" ts="1359076222918" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_137</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076223230" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_138</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076223481" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_139</java.net.URL>
+</httpSample>
+<httpSample t="80" ts="1359076223796" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_140</java.net.URL>
+</httpSample>
+<httpSample t="83" ts="1359076224012" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_141</java.net.URL>
+</httpSample>
+<httpSample t="76" ts="1359076224302" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_142</java.net.URL>
+</httpSample>
+<httpSample t="65" ts="1359076224587" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_143</java.net.URL>
+</httpSample>
+<httpSample t="139" ts="1359076225017" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_144</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076225301" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_145</java.net.URL>
+</httpSample>
+<httpSample t="76" ts="1359076225800" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_146</java.net.URL>
+</httpSample>
+<httpSample t="88" ts="1359076226035" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_147</java.net.URL>
+</httpSample>
+<httpSample t="66" ts="1359076226383" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_148</java.net.URL>
+</httpSample>
+<httpSample t="73" ts="1359076226590" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_149</java.net.URL>
+</httpSample>
+<httpSample t="73" ts="1359076226885" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_150</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076227195" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_151</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076227597" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_152</java.net.URL>
+</httpSample>
+<httpSample t="82" ts="1359076227785" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_153</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076228195" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_154</java.net.URL>
+</httpSample>
+<httpSample t="65" ts="1359076228406" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_155</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076228616" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_156</java.net.URL>
+</httpSample>
+<httpSample t="67" ts="1359076228921" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_157</java.net.URL>
+</httpSample>
+<httpSample t="65" ts="1359076229133" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_158</java.net.URL>
+</httpSample>
+<httpSample t="70" ts="1359076229342" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_159</java.net.URL>
+</httpSample>
+<httpSample t="72" ts="1359076229569" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_160</java.net.URL>
+</httpSample>
+<httpSample t="476" ts="1359076229788" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_161</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076230428" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_162</java.net.URL>
+</httpSample>
+<httpSample t="66" ts="1359076230749" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_163</java.net.URL>
+</httpSample>
+<httpSample t="67" ts="1359076231048" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_164</java.net.URL>
+</httpSample>
+<httpSample t="64" ts="1359076231262" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_165</java.net.URL>
+</httpSample>
+<httpSample t="68" ts="1359076231471" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_166</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076231749" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_167</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076231945" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_168</java.net.URL>
+</httpSample>
+<httpSample t="74" ts="1359076232210" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_169</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076232677" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_170</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076232936" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_171</java.net.URL>
+</httpSample>
+<httpSample t="74" ts="1359076233134" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_172</java.net.URL>
+</httpSample>
+<httpSample t="81" ts="1359076233339" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_173</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076233602" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_174</java.net.URL>
+</httpSample>
+<httpSample t="67" ts="1359076233792" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_175</java.net.URL>
+</httpSample>
+<httpSample t="75" ts="1359076234021" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_176</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076234243" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_177</java.net.URL>
+</httpSample>
+<httpSample t="68" ts="1359076234511" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_178</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076236123" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_179</java.net.URL>
+</httpSample>
+<httpSample t="92" ts="1359076236396" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_180</java.net.URL>
+</httpSample>
+<httpSample t="70" ts="1359076236832" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_181</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076237094" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_182</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076237382" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_183</java.net.URL>
+</httpSample>
+<httpSample t="79" ts="1359076237682" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_184</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076237981" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_185</java.net.URL>
+</httpSample>
+<httpSample t="66" ts="1359076238578" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_186</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076239097" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_187</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076239351" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_188</java.net.URL>
+</httpSample>
+<httpSample t="89" ts="1359076239536" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_189</java.net.URL>
+</httpSample>
+<httpSample t="539" ts="1359076239784" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_190</java.net.URL>
+</httpSample>
+<httpSample t="78" ts="1359076240469" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_191</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076240812" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_192</java.net.URL>
+</httpSample>
+<httpSample t="68" ts="1359076241110" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_193</java.net.URL>
+</httpSample>
+<httpSample t="67" ts="1359076241327" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_194</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076241685" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_195</java.net.URL>
+</httpSample>
+<httpSample t="73" ts="1359076242102" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_196</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076242305" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_197</java.net.URL>
+</httpSample>
+<httpSample t="65" ts="1359076242498" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_198</java.net.URL>
+</httpSample>
+<httpSample t="67" ts="1359076242783" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_199</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076243237" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_200</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076243447" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_201</java.net.URL>
+</httpSample>
+<httpSample t="66" ts="1359076243728" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_202</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076243933" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_203</java.net.URL>
+</httpSample>
+<httpSample t="76" ts="1359076244135" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_204</java.net.URL>
+</httpSample>
+<httpSample t="66" ts="1359076244375" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_205</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076244658" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_206</java.net.URL>
+</httpSample>
+<httpSample t="839" ts="1359076245149" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_207</java.net.URL>
+</httpSample>
+<httpSample t="71" ts="1359076246260" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_208</java.net.URL>
+</httpSample>
+<httpSample t="54" ts="1359076246560" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_209</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076246765" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_210</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076246962" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_211</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076247162" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_212</java.net.URL>
+</httpSample>
+<httpSample t="64" ts="1359076247436" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_213</java.net.URL>
+</httpSample>
+<httpSample t="64" ts="1359076247711" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_214</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076247988" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_215</java.net.URL>
+</httpSample>
+<httpSample t="71" ts="1359076248286" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_216</java.net.URL>
+</httpSample>
+<httpSample t="79" ts="1359076248577" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_217</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076248912" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_218</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076249147" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_219</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076249343" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_220</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076249638" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_221</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076250066" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_222</java.net.URL>
+</httpSample>
+<httpSample t="65" ts="1359076250330" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_223</java.net.URL>
+</httpSample>
+<httpSample t="128" ts="1359076250670" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_224</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076251157" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_225</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076251363" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_226</java.net.URL>
+</httpSample>
+<httpSample t="87" ts="1359076251563" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_227</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076252013" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_228</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076252388" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_229</java.net.URL>
+</httpSample>
+<httpSample t="98" ts="1359076252580" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_230</java.net.URL>
+</httpSample>
+<httpSample t="66" ts="1359076252818" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_231</java.net.URL>
+</httpSample>
+<httpSample t="65" ts="1359076253042" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_232</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076253424" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_233</java.net.URL>
+</httpSample>
+<httpSample t="80" ts="1359076253701" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_234</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076254053" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_235</java.net.URL>
+</httpSample>
+<httpSample t="65" ts="1359076254377" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_236</java.net.URL>
+</httpSample>
+<httpSample t="91" ts="1359076254587" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_237</java.net.URL>
+</httpSample>
+<httpSample t="52" ts="1359076254830" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_238</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076255038" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_239</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076255357" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_240</java.net.URL>
+</httpSample>
+<httpSample t="54" ts="1359076255682" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_241</java.net.URL>
+</httpSample>
+<httpSample t="134" ts="1359076256114" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_242</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076256538" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_243</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076256728" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_244</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076256925" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_245</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076257119" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_246</java.net.URL>
+</httpSample>
+<httpSample t="65" ts="1359076257334" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_247</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076257609" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_248</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076257879" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_249</java.net.URL>
+</httpSample>
+<httpSample t="53" ts="1359076258238" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_250</java.net.URL>
+</httpSample>
+<httpSample t="54" ts="1359076258423" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_251</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076258672" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_252</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076259026" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_253</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076259213" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_254</java.net.URL>
+</httpSample>
+<httpSample t="54" ts="1359076259426" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_255</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076259619" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_256</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076259988" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_257</java.net.URL>
+</httpSample>
+<httpSample t="65" ts="1359076260197" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_258</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076260412" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_259</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076260615" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_260</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076261578" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_261</java.net.URL>
+</httpSample>
+<httpSample t="70" ts="1359076262101" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_262</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076262323" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_263</java.net.URL>
+</httpSample>
+<httpSample t="76" ts="1359076262532" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_264</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076262964" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_265</java.net.URL>
+</httpSample>
+<httpSample t="66" ts="1359076263261" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_266</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076263482" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_267</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076263837" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_268</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076264049" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_269</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076264335" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_270</java.net.URL>
+</httpSample>
+<httpSample t="65" ts="1359076264541" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_271</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076264760" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_272</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076265041" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_273</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076265326" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_274</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076265622" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_275</java.net.URL>
+</httpSample>
+<httpSample t="275" ts="1359076265830" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_276</java.net.URL>
+</httpSample>
+<httpSample t="66" ts="1359076266273" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_277</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076266553" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_278</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076266820" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_279</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076267036" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_280</java.net.URL>
+</httpSample>
+<httpSample t="72" ts="1359076267231" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_281</java.net.URL>
+</httpSample>
+<httpSample t="66" ts="1359076267464" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_282</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076267675" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_283</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076268035" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_284</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076268231" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_285</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076268464" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_286</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076268814" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_287</java.net.URL>
+</httpSample>
+<httpSample t="70" ts="1359076269016" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_288</java.net.URL>
+</httpSample>
+<httpSample t="66" ts="1359076269230" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_289</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076269441" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_290</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076269633" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_291</java.net.URL>
+</httpSample>
+<httpSample t="53" ts="1359076270029" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_292</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076270229" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_293</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076270538" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_294</java.net.URL>
+</httpSample>
+<httpSample t="1019" ts="1359076270807" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_295</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076271966" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_296</java.net.URL>
+</httpSample>
+<httpSample t="80" ts="1359076272253" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_297</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076272470" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_298</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076272682" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_299</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076273294" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_300</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076273611" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_301</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076273810" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_302</java.net.URL>
+</httpSample>
+<httpSample t="70" ts="1359076274064" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_303</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076274282" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_304</java.net.URL>
+</httpSample>
+<httpSample t="52" ts="1359076274489" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_305</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076274687" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_306</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076274886" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_307</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076275359" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_308</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076275561" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_309</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076275782" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_310</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076276392" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_311</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076276799" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_312</java.net.URL>
+</httpSample>
+<httpSample t="53" ts="1359076277105" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_313</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076277404" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_314</java.net.URL>
+</httpSample>
+<httpSample t="64" ts="1359076277682" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_315</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076278384" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_316</java.net.URL>
+</httpSample>
+<httpSample t="70" ts="1359076278818" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_317</java.net.URL>
+</httpSample>
+<httpSample t="70" ts="1359076279095" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_318</java.net.URL>
+</httpSample>
+<httpSample t="70" ts="1359076279463" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_319</java.net.URL>
+</httpSample>
+<httpSample t="65" ts="1359076279797" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_320</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076280113" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_321</java.net.URL>
+</httpSample>
+<httpSample t="69" ts="1359076280406" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_322</java.net.URL>
+</httpSample>
+<httpSample t="66" ts="1359076280727" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_323</java.net.URL>
+</httpSample>
+<httpSample t="471" ts="1359076281015" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_324</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076281730" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_325</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076281990" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_326</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076282248" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_327</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076282578" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_328</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076282913" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_329</java.net.URL>
+</httpSample>
+<httpSample t="99" ts="1359076283124" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_330</java.net.URL>
+</httpSample>
+<httpSample t="64" ts="1359076283369" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_331</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076283697" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_332</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076284225" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_333</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076284482" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_334</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076284822" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_335</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076285035" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_336</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076285433" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_337</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076285852" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_338</java.net.URL>
+</httpSample>
+<httpSample t="213" ts="1359076286100" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_339</java.net.URL>
+</httpSample>
+<httpSample t="78" ts="1359076286491" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_340</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076286841" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_341</java.net.URL>
+</httpSample>
+<httpSample t="68" ts="1359076287306" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_342</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076287630" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_343</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076287841" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_344</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076288139" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_345</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076288338" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_346</java.net.URL>
+</httpSample>
+<httpSample t="52" ts="1359076288608" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_347</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076288823" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_348</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076289089" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_349</java.net.URL>
+</httpSample>
+<httpSample t="66" ts="1359076289378" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_350</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076289600" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_351</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076289810" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_352</java.net.URL>
+</httpSample>
+<httpSample t="54" ts="1359076290015" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_353</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076290390" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_354</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076290592" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_355</java.net.URL>
+</httpSample>
+<httpSample t="52" ts="1359076290906" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_356</java.net.URL>
+</httpSample>
+<httpSample t="511" ts="1359076291095" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_357</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076292622" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_358</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076292880" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_359</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076293196" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_360</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076293523" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_361</java.net.URL>
+</httpSample>
+<httpSample t="69" ts="1359076293899" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_362</java.net.URL>
+</httpSample>
+<httpSample t="66" ts="1359076294133" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_363</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076294517" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_364</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076294725" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_365</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076294946" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_366</java.net.URL>
+</httpSample>
+<httpSample t="69" ts="1359076295270" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_367</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076295509" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_368</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076295719" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_369</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076295931" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_370</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076296622" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_371</java.net.URL>
+</httpSample>
+<httpSample t="145" ts="1359076296926" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_372</java.net.URL>
+</httpSample>
+<httpSample t="71" ts="1359076297293" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_373</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076297565" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_374</java.net.URL>
+</httpSample>
+<httpSample t="66" ts="1359076297806" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_375</java.net.URL>
+</httpSample>
+<httpSample t="65" ts="1359076298173" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_376</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076298402" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_377</java.net.URL>
+</httpSample>
+<httpSample t="71" ts="1359076298723" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_378</java.net.URL>
+</httpSample>
+<httpSample t="68" ts="1359076298950" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_379</java.net.URL>
+</httpSample>
+<httpSample t="78" ts="1359076299187" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_380</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076299415" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_381</java.net.URL>
+</httpSample>
+<httpSample t="67" ts="1359076299624" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_382</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076299842" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_383</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076300135" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_384</java.net.URL>
+</httpSample>
+<httpSample t="71" ts="1359076300522" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_385</java.net.URL>
+</httpSample>
+<httpSample t="68" ts="1359076300814" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_386</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076301101" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_387</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076301618" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_388</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076301865" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_389</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076302223" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_390</java.net.URL>
+</httpSample>
+<httpSample t="68" ts="1359076302535" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_391</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076302825" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_392</java.net.URL>
+</httpSample>
+<httpSample t="66" ts="1359076303192" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_393</java.net.URL>
+</httpSample>
+<httpSample t="51" ts="1359076309531" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_394</java.net.URL>
+</httpSample>
+<httpSample t="53" ts="1359076310062" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_395</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076310279" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_396</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076310900" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_397</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076311161" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_398</java.net.URL>
+</httpSample>
+<httpSample t="54" ts="1359076311675" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_399</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076312296" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_400</java.net.URL>
+</httpSample>
+<httpSample t="66" ts="1359076312590" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_401</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076312881" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_402</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076313082" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_403</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076313305" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_404</java.net.URL>
+</httpSample>
+<httpSample t="51" ts="1359076313502" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_405</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076314160" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_406</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076314904" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_407</java.net.URL>
+</httpSample>
+<httpSample t="50" ts="1359076315091" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_408</java.net.URL>
+</httpSample>
+<httpSample t="89" ts="1359076316049" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_409</java.net.URL>
+</httpSample>
+<httpSample t="102" ts="1359076316352" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_410</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076316614" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_411</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076316904" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_412</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076317147" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_413</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076317348" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_414</java.net.URL>
+</httpSample>
+<httpSample t="54" ts="1359076317752" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_415</java.net.URL>
+</httpSample>
+<httpSample t="52" ts="1359076317961" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_416</java.net.URL>
+</httpSample>
+<httpSample t="54" ts="1359076318377" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_417</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076318571" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_418</java.net.URL>
+</httpSample>
+<httpSample t="52" ts="1359076318841" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_419</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076319031" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_420</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076319294" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_421</java.net.URL>
+</httpSample>
+<httpSample t="147" ts="1359076319593" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_422</java.net.URL>
+</httpSample>
+<httpSample t="51" ts="1359076319986" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_423</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076320272" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_424</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076320628" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_425</java.net.URL>
+</httpSample>
+<httpSample t="75" ts="1359076320854" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_426</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076321099" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_427</java.net.URL>
+</httpSample>
+<httpSample t="51" ts="1359076321304" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_428</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076321508" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_429</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076321819" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_430</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076322147" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_431</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076322440" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_432</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076322898" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_433</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076323110" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_434</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076323429" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_435</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076323679" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_436</java.net.URL>
+</httpSample>
+<httpSample t="75" ts="1359076324071" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_437</java.net.URL>
+</httpSample>
+<httpSample t="53" ts="1359076324370" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_438</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076324577" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_439</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076324859" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_440</java.net.URL>
+</httpSample>
+<httpSample t="54" ts="1359076325052" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_441</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076325319" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_442</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076325536" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_443</java.net.URL>
+</httpSample>
+<httpSample t="50" ts="1359076325733" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_444</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076326035" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_445</java.net.URL>
+</httpSample>
+<httpSample t="68" ts="1359076326247" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_446</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076326531" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_447</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076326806" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_448</java.net.URL>
+</httpSample>
+<httpSample t="54" ts="1359076327038" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_449</java.net.URL>
+</httpSample>
+<httpSample t="64" ts="1359076327223" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_450</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076327496" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_451</java.net.URL>
+</httpSample>
+<httpSample t="52" ts="1359076327731" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_452</java.net.URL>
+</httpSample>
+<httpSample t="54" ts="1359076327924" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_453</java.net.URL>
+</httpSample>
+<httpSample t="69" ts="1359076328209" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_454</java.net.URL>
+</httpSample>
+<httpSample t="73" ts="1359076328566" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_455</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076329021" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_456</java.net.URL>
+</httpSample>
+<httpSample t="54" ts="1359076329313" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_457</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076329650" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_458</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076329923" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_459</java.net.URL>
+</httpSample>
+<httpSample t="53" ts="1359076330118" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_460</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076330435" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_461</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076330711" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_462</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076330924" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_463</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076331130" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_464</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076331336" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_465</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076331605" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_466</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076331961" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_467</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076332236" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_468</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076332435" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_469</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076332650" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_470</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076332860" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_471</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076333060" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_472</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076333356" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_473</java.net.URL>
+</httpSample>
+<httpSample t="53" ts="1359076333713" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_474</java.net.URL>
+</httpSample>
+<httpSample t="53" ts="1359076333915" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_475</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076334252" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_476</java.net.URL>
+</httpSample>
+<httpSample t="71" ts="1359076334478" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_477</java.net.URL>
+</httpSample>
+<httpSample t="69" ts="1359076337904" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_478</java.net.URL>
+</httpSample>
+<httpSample t="64" ts="1359076338225" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_479</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076338567" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_480</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076338826" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_481</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076339116" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_482</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076339346" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_483</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076339612" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_484</java.net.URL>
+</httpSample>
+<httpSample t="70" ts="1359076340016" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_485</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076340388" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_486</java.net.URL>
+</httpSample>
+<httpSample t="75" ts="1359076340640" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_487</java.net.URL>
+</httpSample>
+<httpSample t="53" ts="1359076341117" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_488</java.net.URL>
+</httpSample>
+<httpSample t="53" ts="1359076341417" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_489</java.net.URL>
+</httpSample>
+<httpSample t="1217" ts="1359076343716" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_490</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076346178" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_491</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076346523" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_492</java.net.URL>
+</httpSample>
+<httpSample t="78" ts="1359076346818" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_493</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076347153" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_494</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076347636" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_495</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076347852" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_496</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076348324" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_497</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076348621" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_498</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076348968" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_499</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076349387" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_500</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076349655" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_501</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076349863" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_502</java.net.URL>
+</httpSample>
+<httpSample t="180" ts="1359076350124" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_503</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076350471" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_504</java.net.URL>
+</httpSample>
+<httpSample t="71" ts="1359076350909" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_505</java.net.URL>
+</httpSample>
+<httpSample t="68" ts="1359076351170" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_506</java.net.URL>
+</httpSample>
+<httpSample t="54" ts="1359076351542" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_507</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076351837" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_508</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076352154" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_509</java.net.URL>
+</httpSample>
+<httpSample t="65" ts="1359076352390" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_510</java.net.URL>
+</httpSample>
+<httpSample t="81" ts="1359076352796" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_511</java.net.URL>
+</httpSample>
+<httpSample t="64" ts="1359076353018" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_512</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076353222" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_513</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076353625" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_514</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076353841" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_515</java.net.URL>
+</httpSample>
+<httpSample t="54" ts="1359076354181" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_516</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076354572" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_517</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076354951" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_518</java.net.URL>
+</httpSample>
+<httpSample t="54" ts="1359076355185" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_519</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076355397" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_520</java.net.URL>
+</httpSample>
+<httpSample t="70" ts="1359076355618" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_521</java.net.URL>
+</httpSample>
+<httpSample t="174" ts="1359076355918" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_522</java.net.URL>
+</httpSample>
+<httpSample t="68" ts="1359076356292" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_523</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076356622" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_524</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076357052" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_525</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076357291" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_526</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076357562" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_527</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076357925" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_528</java.net.URL>
+</httpSample>
+<httpSample t="71" ts="1359076358295" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_529</java.net.URL>
+</httpSample>
+<httpSample t="65" ts="1359076358785" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_530</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076359090" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_531</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076359461" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_532</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076359750" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_533</java.net.URL>
+</httpSample>
+<httpSample t="64" ts="1359076360123" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_534</java.net.URL>
+</httpSample>
+<httpSample t="82" ts="1359076360369" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_535</java.net.URL>
+</httpSample>
+<httpSample t="54" ts="1359076360671" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_536</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076360880" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_537</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076361267" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_538</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076361577" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_539</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076361817" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_540</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076362022" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_541</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076362333" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_542</java.net.URL>
+</httpSample>
+<httpSample t="70" ts="1359076362630" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_543</java.net.URL>
+</httpSample>
+<httpSample t="64" ts="1359076362873" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_544</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076363102" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_545</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076363314" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_546</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076363528" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_547</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076363735" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_548</java.net.URL>
+</httpSample>
+<httpSample t="67" ts="1359076363975" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_549</java.net.URL>
+</httpSample>
+<httpSample t="69" ts="1359076364195" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_550</java.net.URL>
+</httpSample>
+<httpSample t="70" ts="1359076364506" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_551</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076364827" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_552</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076365203" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_553</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076365424" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_554</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076365775" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_555</java.net.URL>
+</httpSample>
+<httpSample t="64" ts="1359076366068" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_556</java.net.URL>
+</httpSample>
+<httpSample t="65" ts="1359076366362" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_557</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076366581" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_558</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076366890" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_559</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076367209" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_560</java.net.URL>
+</httpSample>
+<httpSample t="72" ts="1359076367435" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_561</java.net.URL>
+</httpSample>
+<httpSample t="83" ts="1359076367857" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_562</java.net.URL>
+</httpSample>
+<httpSample t="106" ts="1359076368270" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_563</java.net.URL>
+</httpSample>
+<httpSample t="105" ts="1359076368551" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_564</java.net.URL>
+</httpSample>
+<httpSample t="64" ts="1359076368901" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_565</java.net.URL>
+</httpSample>
+<httpSample t="81" ts="1359076369264" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_566</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076369564" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_567</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076369777" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_568</java.net.URL>
+</httpSample>
+<httpSample t="53" ts="1359076370087" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_569</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076370378" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_570</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076370739" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_571</java.net.URL>
+</httpSample>
+<httpSample t="64" ts="1359076371078" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_572</java.net.URL>
+</httpSample>
+<httpSample t="67" ts="1359076371299" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_573</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076371503" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_574</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076372077" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_575</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076372312" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_576</java.net.URL>
+</httpSample>
+<httpSample t="53" ts="1359076372534" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_577</java.net.URL>
+</httpSample>
+<httpSample t="52" ts="1359076372830" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_578</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076373761" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_579</java.net.URL>
+</httpSample>
+<httpSample t="64" ts="1359076373968" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_580</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076374425" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_581</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076374660" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_582</java.net.URL>
+</httpSample>
+<httpSample t="64" ts="1359076374976" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_583</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076375296" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_584</java.net.URL>
+</httpSample>
+<httpSample t="52" ts="1359076375494" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_585</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076375688" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_586</java.net.URL>
+</httpSample>
+<httpSample t="53" ts="1359076375992" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_587</java.net.URL>
+</httpSample>
+<httpSample t="52" ts="1359076376189" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_588</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076376451" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_589</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076376732" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_590</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076376949" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_591</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076377246" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_592</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076377465" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_593</java.net.URL>
+</httpSample>
+<httpSample t="53" ts="1359076377862" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_594</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076378210" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_595</java.net.URL>
+</httpSample>
+<httpSample t="76" ts="1359076378484" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_596</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076378735" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_597</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076378966" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_598</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076379238" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_599</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076379611" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_600</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076380407" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_601</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076380987" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_602</java.net.URL>
+</httpSample>
+<httpSample t="67" ts="1359076381268" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_603</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076381614" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_604</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076381924" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_605</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076382140" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_606</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076382820" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_607</java.net.URL>
+</httpSample>
+<httpSample t="340" ts="1359076383328" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_608</java.net.URL>
+</httpSample>
+<httpSample t="84" ts="1359076383871" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_609</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076384170" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_610</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076384477" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_611</java.net.URL>
+</httpSample>
+<httpSample t="54" ts="1359076384702" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_612</java.net.URL>
+</httpSample>
+<httpSample t="51" ts="1359076384965" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_613</java.net.URL>
+</httpSample>
+<httpSample t="52" ts="1359076385182" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_614</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076385404" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_615</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076385796" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_616</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076386069" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_617</java.net.URL>
+</httpSample>
+<httpSample t="73" ts="1359076386359" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_618</java.net.URL>
+</httpSample>
+<httpSample t="70" ts="1359076386780" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_619</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076387004" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_620</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076387139" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_621</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076387340" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_622</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076387563" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_623</java.net.URL>
+</httpSample>
+<httpSample t="73" ts="1359076388013" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_624</java.net.URL>
+</httpSample>
+<httpSample t="67" ts="1359076388514" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_625</java.net.URL>
+</httpSample>
+<httpSample t="54" ts="1359076388880" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_626</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076389220" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_627</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076389461" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_628</java.net.URL>
+</httpSample>
+<httpSample t="65" ts="1359076389715" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_629</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076390091" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_630</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076390392" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_631</java.net.URL>
+</httpSample>
+<httpSample t="67" ts="1359076390628" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_632</java.net.URL>
+</httpSample>
+<httpSample t="167" ts="1359076390943" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_633</java.net.URL>
+</httpSample>
+<httpSample t="61" ts="1359076391335" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_634</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076391583" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_635</java.net.URL>
+</httpSample>
+<httpSample t="55" ts="1359076391918" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_636</java.net.URL>
+</httpSample>
+<httpSample t="54" ts="1359076392118" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_637</java.net.URL>
+</httpSample>
+<httpSample t="60" ts="1359076392312" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_638</java.net.URL>
+</httpSample>
+<httpSample t="56" ts="1359076392710" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_639</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076392993" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_640</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076393470" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_641</java.net.URL>
+</httpSample>
+<httpSample t="51" ts="1359076393726" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_642</java.net.URL>
+</httpSample>
+<httpSample t="57" ts="1359076393928" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_643</java.net.URL>
+</httpSample>
+<httpSample t="51" ts="1359076394216" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_644</java.net.URL>
+</httpSample>
+<httpSample t="62" ts="1359076394502" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_645</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076395067" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_646</java.net.URL>
+</httpSample>
+<httpSample t="63" ts="1359076395318" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_647</java.net.URL>
+</httpSample>
+<httpSample t="66" ts="1359076395536" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_648</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076395744" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_649</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076396057" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_650</java.net.URL>
+</httpSample>
+<httpSample t="58" ts="1359076396384" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_651</java.net.URL>
+</httpSample>
+<httpSample t="59" ts="1359076396583" s="true" lb="Fedora Create Object Request" rc="201" rm="Created" tn="Fedora group 1-1" dt="text">
+  <java.net.URL>http://localhost:8080/fedora/objects/test:1_652</java.net.URL>
+</httpSample>
+
+</testResults>
